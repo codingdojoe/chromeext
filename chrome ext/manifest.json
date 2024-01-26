@@ -1,0 +1,18 @@
+{
+    "manifest_version": 3,
+    "name": "GitHub Helper",
+    "version": "1.0",
+    "description": "A GitHub helper extension",
+    "icons": {
+      "48": "icon/48.png",
+      "128": "icon/128.png"
+    },
+    "permissions": ["activeTab"],
+    "action": {
+      "default_popup": "index.html",
+      "default_icon": {
+        "48": "icon/48.png",
+        "128": "icon/128.png"
+      }
+    }
+  }

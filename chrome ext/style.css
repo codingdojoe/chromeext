@@ -1,0 +1,17 @@
+/* this is just the layout of the popup */
+
+body {
+    width: 200px;
+  }
+  
+  .toolbar {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin: 10px;
+  }
+  
+  button {
+    padding: 5px;
+  }
+  
